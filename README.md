@@ -49,7 +49,7 @@ The model processes each prompt and generates corresponding images.
 Generated images are visualized and saved for further use.
 
 
-Google Collab Access: 
+🌟Google Collab Access: 
 https://colab.research.google.com/drive/17NlG8rhwssNXEFvprXqDWqUHHPOMSIBk?usp=sharing
 
 
